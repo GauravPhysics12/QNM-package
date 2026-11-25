@@ -1,2 +1,2 @@
 # QNM package
-Toolkit to compute QNMs of static black holes (Work in-progress) 
+Toolkit to compute QNMs of static black holes (work in progress) 
